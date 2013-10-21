@@ -1,0 +1,4 @@
+ngUploaderDir
+=============
+
+ajax uploader directive
